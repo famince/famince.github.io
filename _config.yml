@@ -17,10 +17,14 @@ title: alex's life
 email: famince@163.com
 description: > # this means to ignore newlines until "baseurl:"
   alex's life
-baseurl: "https://famince.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "famince.win" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  famince
+
+# deployment
+#host: 0.0.0.0
+#port: 5000
 
 # Build settings
 markdown: kramdown
