@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "hello from docker!"
@@ -17,7 +16,7 @@ output:
 
 中途换 sohu mirrors 才安装成功
 
-```{r, engine='sh', eval = FALSE}
+```shell
 alex@alex-xiao:~$ sudo docker run hello-world
 Unable to find image 'hello-world:latest' locally
 latest: Pulling from library/hello-world
