@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "hello from docker!"
-date:   2017-05-16 19:46:52 +0800
+title:  "看脑力男人时代有感"
+date:   2017-06-19 20:42:52 +0800
 output:
   html_document:
       highlight: pygments
