@@ -72,5 +72,4 @@ nginx(19146)─┬─nginx(8644)
 ```
 可以试下 pstree -p 1
 
-***
 7. kill nginx 进程，然后启动nginx进程;
